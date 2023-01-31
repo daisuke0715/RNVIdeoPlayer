@@ -6,7 +6,7 @@ import AndroidVideoPlayer from 'react-native-video-controls';
 import { PlayerBackground } from '../../components/PlayerBackground/style';
 import { PageWrapper } from '../../components/PageWrapper/style';
 import { PlayerView } from '../../components/PlayerView/style';
-import { InfoArea } from 'components/InfoArea/style';
+import { InfoArea } from '../../components/InfoArea/style';
 import Loading from '../../components/Loading';
 import VideoChapterType from '../../types/VideoChapter';
 import VideoChapter from '../../components/VideoChapter';
