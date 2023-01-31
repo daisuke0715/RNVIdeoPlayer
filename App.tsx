@@ -3,8 +3,11 @@ import {
   SafeAreaView,
   StatusBar,
   StyleSheet,
+  Dimensions,
+  Text
 } from 'react-native';
 import Video from 'react-native-video';
+import styled from 'styled-components/native';
 
 const App = () => {
   return (
