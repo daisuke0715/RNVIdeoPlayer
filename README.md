@@ -5,3 +5,6 @@
 - また1つのチャプターに該当する動画の再生が終了したら、次のチャプターに再生が自動で移り変わるように実装しました。
 
 ## Capture
+
+https://user-images.githubusercontent.com/38068379/215783482-16bd6858-c25d-4e90-a4c4-afe5eba6b3cd.mp4
+
